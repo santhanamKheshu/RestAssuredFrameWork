@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-12T10:45:53 IST" name="PetSuite" finished-at="2023-10-12T10:46:09 IST" duration-ms="15937">
+    <groups>
+    </groups>
+    <test started-at="2023-10-12T10:45:53 IST" name="PetTest" finished-at="2023-10-12T10:46:09 IST" duration-ms="15937">
+      <class name="api.test.UserTestCase2">
+        <test-method is-config="true" signature="setUpData()[pri:0, instance:api.test.UserTestCase2@7fa98a66]" started-at="2023-10-12T10:45:53 IST" name="setUpData" finished-at="2023-10-12T10:45:54 IST" duration-ms="1082" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpData -->
+        <test-method signature="testPostUser()[pri:1, instance:api.test.UserTestCase2@7fa98a66]" started-at="2023-10-12T10:45:54 IST" name="testPostUser" finished-at="2023-10-12T10:46:00 IST" duration-ms="5358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostUser -->
+        <test-method signature="testGetUser()[pri:2, instance:api.test.UserTestCase2@7fa98a66]" started-at="2023-10-12T10:46:00 IST" name="testGetUser" finished-at="2023-10-12T10:46:02 IST" depends-on-methods="api.test.UserTestCase2.testPostUser" duration-ms="2204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetUser -->
+        <test-method signature="testUpdateUser()[pri:3, instance:api.test.UserTestCase2@7fa98a66]" started-at="2023-10-12T10:46:02 IST" name="testUpdateUser" finished-at="2023-10-12T10:46:06 IST" depends-on-methods="api.test.UserTestCase2.testPostUser" duration-ms="4501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateUser -->
+        <test-method signature="testDeleteUser()[pri:4, instance:api.test.UserTestCase2@7fa98a66]" started-at="2023-10-12T10:46:06 IST" name="testDeleteUser" finished-at="2023-10-12T10:46:09 IST" depends-on-methods="api.test.UserTestCase2.testPostUser" duration-ms="2456" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteUser -->
+      </class> <!-- api.test.UserTestCase2 -->
+    </test> <!-- PetTest -->
+  </suite> <!-- PetSuite -->
+</testng-results>

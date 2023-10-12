@@ -1,0 +1,24 @@
+2023-10-12 10:14:13,872 INFO a.t.UserTestCase2 [main] ********************Creating User **************************
+2023-10-12 10:14:19,375 INFO a.t.UserTestCase2 [main] ********************User is Created **************************
+2023-10-12 10:14:19,468 INFO a.t.UserTestCase2 [main] ********************Reading User Info **************************
+2023-10-12 10:14:21,687 INFO a.t.UserTestCase2 [main] ********************User info is displayed **************************
+2023-10-12 10:14:21,693 INFO a.t.UserTestCase2 [main] ********************Updating User **************************
+2023-10-12 10:14:24,725 INFO a.t.UserTestCase2 [main] ********************User Updated **************************
+2023-10-12 10:14:24,734 INFO a.t.UserTestCase2 [main] ********************Deleting User **************************
+2023-10-12 10:14:26,075 INFO a.t.UserTestCase2 [main] ********************User Deleted **************************
+2023-10-12 10:29:57,829 INFO a.t.UserTestCase2 [main] ********************Creating User **************************
+2023-10-12 10:30:03,856 INFO a.t.UserTestCase2 [main] ********************User is Created **************************
+2023-10-12 10:30:03,875 INFO a.t.UserTestCase2 [main] ********************Reading User Info **************************
+2023-10-12 10:30:06,436 INFO a.t.UserTestCase2 [main] ********************User info is displayed **************************
+2023-10-12 10:30:06,443 INFO a.t.UserTestCase2 [main] ********************Updating User **************************
+2023-10-12 10:30:11,654 INFO a.t.UserTestCase2 [main] ********************User Updated **************************
+2023-10-12 10:30:11,659 INFO a.t.UserTestCase2 [main] ********************Deleting User **************************
+2023-10-12 10:30:13,809 INFO a.t.UserTestCase2 [main] ********************User Deleted **************************
+2023-10-12 10:45:54,671 INFO a.t.UserTestCase2 [main] ********************Creating User **************************
+2023-10-12 10:46:00,017 INFO a.t.UserTestCase2 [main] ********************User is Created **************************
+2023-10-12 10:46:00,039 INFO a.t.UserTestCase2 [main] ********************Reading User Info **************************
+2023-10-12 10:46:02,241 INFO a.t.UserTestCase2 [main] ********************User info is displayed **************************
+2023-10-12 10:46:02,245 INFO a.t.UserTestCase2 [main] ********************Updating User **************************
+2023-10-12 10:46:06,745 INFO a.t.UserTestCase2 [main] ********************User Updated **************************
+2023-10-12 10:46:06,748 INFO a.t.UserTestCase2 [main] ********************Deleting User **************************
+2023-10-12 10:46:09,202 INFO a.t.UserTestCase2 [main] ********************User Deleted **************************
